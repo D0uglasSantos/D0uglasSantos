@@ -1,4 +1,4 @@
-# OI!! Sou Douglas de Aquino dos Santos 
+# Eai!! Sou Douglas de Aquino dos Santos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0uglasSantos&show_icons=true&count_private=true&bg_color=0a0f0b&title_color=a4c02d&text_color=789e85&icon_color=a4c02d&border_color=a4c02d)
 
