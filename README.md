@@ -1,5 +1,3 @@
-# Eai!! Sou Douglas de Aquino dos Santos.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0uglasSantos&show_icons=true&count_private=true&bg_color=0a0f0b&title_color=a4c02d&text_color=789e85&icon_color=a4c02d&border_color=a4c02d)
 
 
@@ -10,6 +8,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)">
 </div>
 <br>
 
