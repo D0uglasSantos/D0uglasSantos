@@ -1,17 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0uglasSantos&show_icons=true&count_private=true&bg_color=0a0f0b&title_color=a4c02d&text_color=789e85&icon_color=a4c02d&border_color=a4c02d)
 
-
-<h1> Minhas Tecnologias </h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-<br>
-
-
 <h1>Minhas Redes Sociais</h1>
 
 <div> 
