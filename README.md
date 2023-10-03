@@ -4,7 +4,7 @@
 <div style="display: inline-block"> <br>
   <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,nodejs,js,ts,tailwind,figma,git,linux,materialui,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,bootstrap,nodejs,js,ts,tailwind,figma,git,linux,materialui" />
   </a>
 </p>
 </div> <br> <br>
