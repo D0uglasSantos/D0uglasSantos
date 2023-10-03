@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF734&center=true&vCenter=true&width=450&separator=%3C&lines=eat();+sleep();+code();+repeat();+)](https://git.io/typing-svg)
+
 <h1>Frameworks | Technologies | Tools</h1>
 <div style="display: inline-block"> <br>
   <p >
@@ -6,6 +8,8 @@
   </a>
 </p>
 </div> <br> <br>
+
+![D0uglasSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0uglasSantos&theme=dark&bg_color=000&show_icons=true&hide_title=true&hide=stars)
 
 <h1>Media Social</h1>
 
