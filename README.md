@@ -1,6 +1,6 @@
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0uglsaSantos&layout=compact&langs_count=7&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0uglasSantos&layout=compact&langs_count=7&theme=algolia"/>
 
 <h1>Technologies e Tools</h1>
 <div style="display: inline-block"> <br>
