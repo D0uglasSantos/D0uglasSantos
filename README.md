@@ -1,8 +1,8 @@
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gD0uglsaSantos&layout=compact&langs_count=7&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0uglsaSantos&layout=compact&langs_count=7&theme=algolia"/>
 
-<h1>Minhas Tecnologias e Ferramentas</h1>
+<h1>Technologies e Tools</h1>
 <div style="display: inline-block"> <br>
   <p >
   <a href="https://skillicons.dev">
@@ -11,7 +11,7 @@
 </p>
 </div> <br> <br>
 
-<h1>Minhas Redes Sociais</h1>
+<h1>Media Social</h1>
 
 <div> 
   <a href="https://instagram.com/d0uglas_0203" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
