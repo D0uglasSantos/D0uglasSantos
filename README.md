@@ -1,3 +1,16 @@
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gD0uglsaSantos&layout=compact&langs_count=7&theme=algolia"/>
+
+<h1>Minhas Tecnologias e Ferramentas</h1>
+<div style="display: inline-block"> <br>
+  <p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,nodejs,js,ts,css,figma,git,linux,materialui,nextjs" />
+  </a>
+</p>
+</div> <br> <br>
+
 <h1>Minhas Redes Sociais</h1>
 
 <div> 
