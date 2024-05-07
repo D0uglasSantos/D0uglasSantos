@@ -9,8 +9,6 @@
 </p>
 </div> <br> <br>
 
-![D0uglasSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0uglasSantos&theme=dark&bg_color=000&show_icons=true&hide_title=true&hide=stars)
-
 <h1>Media Social</h1>
 
 <div> 
