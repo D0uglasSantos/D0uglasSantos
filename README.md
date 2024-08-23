@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF734&center=true&vCenter=true&width=450&separator=%3C&lines=eat();+sleep();+code();+repeat();+)](https://git.io/typing-svg)
 
-<h1>Frameworks | Technologies | component library| Tools</h1>
+<h1>Frameworks | Technologies | Component Library | Tools</h1>
 <div style="display: inline-block"> <br>
   <p >
   <a href="https://skillicons.dev">
