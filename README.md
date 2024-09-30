@@ -18,4 +18,4 @@
 </div>
 
 <h1>My Portfolio</h1>
-<a href="https://douglas-santos-portfolio.netlify.app](https://douglas-santos-portfolio-2024.vercel.app" target="_blank">Check out my portfolio! Click here</a>
+<a href="https://douglas-santos-portfolio.netlify.app" target="_blank">Check out my portfolio! Click here</a>
