@@ -83,8 +83,8 @@ Currently, I focus on:
 <p align="center">
   Check out my portfolio:
   <br />
-  <a href="https://douglas-santos-portfolio.vercel.app/" target="_blank">
-    douglas-santos-portfolio.vercel.app
+  <a href="https://dastech-portfolio.vercel.app/" target="_blank">
+    douglas-santos-portfolio
   </a>
 </p>
 
