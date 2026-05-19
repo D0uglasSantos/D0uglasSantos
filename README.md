@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+and+AI-assisted+Development;Building+modern+and+scalable+web+experiences)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+and+AI-assisted+Development;Building+modern+and+scalable+web+experiences" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
 <h1 align="center">Hi, I'm Douglas Santos 👋</h1>
 
@@ -70,9 +77,24 @@ Currently, I focus on:
 
 <div align="center">
 
-![Douglas GitHub Stats](https://github-readme-stats.vercel.app/api?username=D0uglasSantos&show_icons=true&theme=tokyonight&hide_border=true)
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D0uglasSantos&theme=tokyonight" 
+  alt="GitHub Profile Summary"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0uglasSantos&layout=compact&theme=tokyonight&hide_border=true)
+<br />
+
+<img 
+  height="180em" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D0uglasSantos&theme=tokyonight" 
+  alt="GitHub Stats"
+/>
+
+<img 
+  height="180em" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D0uglasSantos&theme=tokyonight" 
+  alt="Most Used Languages"
+/>
 
 </div>
 
