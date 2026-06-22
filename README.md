@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+and+AI-assisted+Development;Building+modern+and+scalable+web+experiences" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full Stack+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+and+AI-assisted+Development;Building+modern+and+scalable+web+experiences" 
       alt="Typing SVG" 
     />
   </a>
@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm Douglas Santos 👋</h1>
 
 <p align="center">
-  Frontend Developer focused on building modern, responsive and scalable web applications.
+  Full Stack focused on building modern, responsive and scalable web applications.
   <br />
   I work mainly with React, Next.js, TypeScript, Tailwind CSS and UI/UX improvements.
 </p>
