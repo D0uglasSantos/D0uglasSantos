@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a Frontend Developer with around 4 years of experience creating web interfaces, dashboards, landing pages and digital products focused on performance, usability and visual quality.
+I'm a Full Stack Developer with around 4 years of experience creating web interfaces, dashboards, landing pages and digital products focused on performance, usability and visual quality.
 
 I have experience working with modern frontend stacks, component-based architecture, responsive interfaces and AI-assisted development workflows using tools such as Cursor, Figma, design references, prompts and automation to improve productivity and delivery quality.
 
