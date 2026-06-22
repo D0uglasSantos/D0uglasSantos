@@ -136,7 +136,7 @@ Currently, I focus on:
 
 ```ts
 const douglas = {
-  role: "Frontend Developer",
+  role: "Full Stack Developer",
   experience: "4+ years",
   mainStack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   interests: ["UI/UX", "Design Systems", "AI-assisted Development", "Web Performance"],
